@@ -1,4 +1,6 @@
-# HTTP RAG Agent
+# Dugong
+![preview](./preview.png)
+## HTTP RAG Agent
 
 一个基于 LangChain + LangGraph + RAG 的智能 HTTP 报文安全测试 Agent。  
 该项目能够自动：
