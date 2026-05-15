@@ -1,0 +1,18 @@
+GET / HTTP/2
+Host: www.ourchinastory.com
+Cookie: _ga=GA1.1.1624473889.1778846514; _gcl_au=1.1.1022511401.1778846514; _ga_5ZMYZTRSM3=GS2.1.s1778846513$o1$g0$t1778846513$j60$l0$h0; _fbp=fb.1.1778846517250.718544922890947434; AWSALBTG=G07IGHqXIqrw08ygYRNGe1yUm+lKHmmLBJ1uVGdhpdD+yUCnh7WOhfYvGYKK80DoRDBySoJ7GfRzOo8zZv5JzVHrM+GlsgZYf7XgNQlaHqu+bAr7GdDLsJBxukEBaaNP+GNS8JoYGy58rIdWhuAHdlq/a64uTSyUnu5kGWitb6HM; AWSALBTGCORS=G07IGHqXIqrw08ygYRNGe1yUm+lKHmmLBJ1uVGdhpdD+yUCnh7WOhfYvGYKK80DoRDBySoJ7GfRzOo8zZv5JzVHrM+GlsgZYf7XgNQlaHqu+bAr7GdDLsJBxukEBaaNP+GNS8JoYGy58rIdWhuAHdlq/a64uTSyUnu5kGWitb6HM; AWSALB=ADxfRrS+H1EvJRGhCyMTudKUllhECOxmFhvW8f0ER9bQvHrIqrAxqWsEV/qLUT7vSsRV06Qc3RZEr3Acs1eSDM6AC3rD3fN2/bhp/h6vVnpXvagX3TP8KECIM4vv; AWSALBCORS=ADxfRrS+H1EvJRGhCyMTudKUllhECOxmFhvW8f0ER9bQvHrIqrAxqWsEV/qLUT7vSsRV06Qc3RZEr3Acs1eSDM6AC3rD3fN2/bhp/h6vVnpXvagX3TP8KECIM4vv
+Cache-Control: max-age=0
+Sec-Ch-Ua: "Google Chrome";v="147", "Not.A/Brand";v="8", "Chromium";v="147"
+Sec-Ch-Ua-Mobile: ?0
+Sec-Ch-Ua-Platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Referer: https://chiculture.org.hk/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+Priority: u=0, i
